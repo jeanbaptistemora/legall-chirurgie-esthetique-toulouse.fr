@@ -1,0 +1,20 @@
+.elementor-213 .elementor-element.elementor-element-2811538 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-213 .elementor-element.elementor-element-5761fca .elementor-menu-toggle{margin-right:auto;background-color:#303D4E;border-radius:0px;}.elementor-213 .elementor-element.elementor-element-5761fca .elementor-nav-menu--dropdown a, .elementor-213 .elementor-element.elementor-element-5761fca .elementor-menu-toggle{color:#FFFFFF;}.elementor-213 .elementor-element.elementor-element-5761fca .elementor-nav-menu--dropdown{background-color:#303D4E;}.elementor-213 .elementor-element.elementor-element-5761fca .elementor-nav-menu--dropdown a:hover,
+					.elementor-213 .elementor-element.elementor-element-5761fca .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-213 .elementor-element.elementor-element-5761fca .elementor-nav-menu--dropdown a.highlighted{background-color:#152131;}.elementor-213 .elementor-element.elementor-element-5761fca .elementor-menu-toggle:hover{background-color:#152131;}.elementor-213 .elementor-element.elementor-element-5761fca{--nav-menu-icon-size:50px;top:0px;}body:not(.rtl) .elementor-213 .elementor-element.elementor-element-5761fca{left:0px;}body.rtl .elementor-213 .elementor-element.elementor-element-5761fca{right:0px;}.elementor-213 .elementor-element.elementor-element-6d24d29 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}@media(min-width:768px){.elementor-213 .elementor-element.elementor-element-2e66730{width:100%;}.elementor-213 .elementor-element.elementor-element-ba4f2f1{width:100%;}}@media(max-width:1024px){.elementor-213 .elementor-element.elementor-element-5761fca{--nav-menu-icon-size:40px;}}@media(max-width:767px){.elementor-213 .elementor-element.elementor-element-5761fca{--nav-menu-icon-size:30px;}}/* Start custom CSS for section, class: .elementor-element-dea1fa6 */.elementor-213 .elementor-element.elementor-element-dea1fa6 .elementor-column {
+    min-height: 0 !important;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-2811538 */.elementor-213 .elementor-element.elementor-element-2811538 {
+    position: fixed;
+    width: 300px;
+    top: 10%;
+    left: 0px;
+    z-index: 1000;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-6d24d29 */.elementor-213 .elementor-element.elementor-element-6d24d29 {
+    position: fixed;
+    //width: 100px;
+    text-align: center;
+    top: 1%;
+    right: 0px;
+    z-index: 1000;
+}/* End custom CSS */
