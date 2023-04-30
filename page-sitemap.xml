@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://legall-chirurgie-esthetique-toulouse.fr/</loc>
 		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/contact-rendez-vous-chirurgie-esthetique-toulouse/</loc>
-		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2019/07/hlg.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/votre-parcours/</loc>
+		<loc>https://legall-chirurgie-esthetique-toulouse.fr/contact-rendez-vous-chirurgie-esthetique-toulouse/</loc>
 		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2019/07/hlg.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/les-interventions-pratiquees/</loc>
+		<loc>https://legall-chirurgie-esthetique-toulouse.fr/votre-parcours/</loc>
 		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2019/07/hlg.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/les-tarifs/</loc>
+		<loc>https://legall-chirurgie-esthetique-toulouse.fr/les-interventions-pratiquees/</loc>
 		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2019/07/hlg.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/faq-foire-aux-questions/</loc>
+		<loc>https://legall-chirurgie-esthetique-toulouse.fr/les-tarifs/</loc>
 		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2019/07/hlg.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/equipe/</loc>
+		<loc>https://legall-chirurgie-esthetique-toulouse.fr/faq-foire-aux-questions/</loc>
+		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/hlg.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://legall-chirurgie-esthetique-toulouse.fr/equipe/</loc>
 		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2019/07/hlg.svg</image:loc>
@@ -56,7 +56,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/avant-apres-en-3d-crisalix/</loc>
+		<loc>https://legall-chirurgie-esthetique-toulouse.fr/avant-apres-en-3d-crisalix/</loc>
 		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2019/07/hlg.svg</image:loc>
@@ -72,7 +72,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/team/</loc>
+		<loc>https://legall-chirurgie-esthetique-toulouse.fr/en/team/</loc>
 		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2019/07/hlg.svg</image:loc>
@@ -88,35 +88,35 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/faq-frequently-asked-questions/</loc>
+		<loc>https://legall-chirurgie-esthetique-toulouse.fr/en/faq-frequently-asked-questions/</loc>
 		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2019/07/hlg.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/treatments-performed/</loc>
+		<loc>https://legall-chirurgie-esthetique-toulouse.fr/en/treatments-performed/</loc>
 		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2019/07/hlg.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/pricing/</loc>
+		<loc>https://legall-chirurgie-esthetique-toulouse.fr/en/pricing/</loc>
 		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2019/07/hlg.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/your-journey/</loc>
+		<loc>https://legall-chirurgie-esthetique-toulouse.fr/en/your-journey/</loc>
 		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2019/07/hlg.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/before-after-in-3d/</loc>
+		<loc>https://legall-chirurgie-esthetique-toulouse.fr/en/before-after-in-3d/</loc>
 		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2019/07/hlg.svg</image:loc>
@@ -132,14 +132,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/contact/</loc>
+		<loc>https://legall-chirurgie-esthetique-toulouse.fr/en/contact/</loc>
 		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2019/07/hlg.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/</loc>
+		<loc>https://legall-chirurgie-esthetique-toulouse.fr/en/</loc>
 		<changefreq>daily</changefreq>
 		<lastmod>2023-04-30T19:08:59+00:00</lastmod>
 		<priority>1.0</priority>
